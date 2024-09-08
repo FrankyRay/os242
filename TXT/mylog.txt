@@ -1,3 +1,33 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+
+#==# W00 #==#
+ZCZC W00 100 L02 OS Class
+ZCZC W00 50  L21 Trying to install Linux (Ubuntu) in VirtualBox
+ZCZC W00 120 L21 Continue to ricing Ubuntu in VirtualBox
+ZCZC W00 100 L02 OS Class
+ZCZC W00 110 L05 Preparing (by setup SEB) for quiz 0; do quiz 0
+ZCZC W00 120 L60 Installing Arch Linux
+
+#==# W01 #==#
+ZCZC W01 100 L02 OS Class
+ZCZC W01 60  L11 Setup Debian for assignment 1
+
+ZCZC W01 30  L08 Helping other fixing username (assignmen 1)
+ZCZC W01 45  L06 Reading Arch wiki for linux related (fixing audio input)
+
+ZCZC W01 100 L02 OS Class
+ZCZC W01 30  L08 Help other installing Debian (assignment 1)
+
+ZCZC W01 30  L06 Reading Arch wiki for linux related
+ZCZC W01 120 L23 Learning AWK and SED cmd (YT, GSGS)
+ZCZC W01 20  L03 Setup github using SSH
+
+ZCZC W01 80  L23 Creating Bash Script for SDA
+ZCZC W01 110 L05 Studying for quiz 1; do the quiz 1
+
+ZCZC W01 120 L11 Continue assignment 1
+ZCZC W01 20  L41 Fixing mylog.txt, adding log for W00 and W01
+
+#==# W02 #==#
