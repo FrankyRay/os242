@@ -31,3 +31,15 @@ ZCZC W01 120 L11 Continue assignment 1
 ZCZC W01 20  L41 Fixing mylog.txt, adding log for W00 and W01
 
 #==# W02 #==#
+ZCZC W02 100 L02 OS Class
+
+ZCZC W02 180 L00 Watching Cyber Security
+
+ZCZC W02 100 L02 OS Class
+
+ZCZC W02 120 L23 Reading some Linux command like TR, SED, etc.
+
+ZCZC W02 120 L12 Start to do assignment
+ZCZC W02 90  L06 Read more about GPG and SSH
+
+ZCZC W02 180 L12 Continue to do assignment #2
