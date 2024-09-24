@@ -13,33 +13,29 @@ ZCZC W00 120 L60 Installing Arch Linux
 #==# W01 #==#
 ZCZC W01 100 L02 OS Class
 ZCZC W01 60  L11 Setup Debian for assignment 1
-
 ZCZC W01 30  L08 Helping other fixing username (assignmen 1)
 ZCZC W01 45  L06 Reading Arch wiki for linux related (fixing audio input)
-
 ZCZC W01 100 L02 OS Class
 ZCZC W01 30  L08 Help other installing Debian (assignment 1)
-
 ZCZC W01 30  L06 Reading Arch wiki for linux related
 ZCZC W01 120 L23 Learning AWK and SED cmd (YT, GSGS)
 ZCZC W01 20  L03 Setup github using SSH
-
 ZCZC W01 80  L23 Creating Bash Script for SDA
 ZCZC W01 110 L05 Studying for quiz 1; do the quiz 1
-
 ZCZC W01 120 L11 Continue assignment 1
 ZCZC W01 20  L41 Fixing mylog.txt, adding log for W00 and W01
 
 #==# W02 #==#
 ZCZC W02 100 L02 OS Class
-
 ZCZC W02 180 L00 Watching Cyber Security
-
 ZCZC W02 100 L02 OS Class
-
 ZCZC W02 120 L23 Reading some Linux command like TR, SED, etc.
-
 ZCZC W02 120 L12 Start to do assignment
 ZCZC W02 90  L06 Read more about GPG and SSH
-
 ZCZC W02 180 L12 Continue to do assignment #2
+
+#==# W03 #==#
+ZCZC W03 200 L32 Wathing OS related as replacement of OS Class
+ZCZC W03 100 L02 OS Class
+ZCZC W03 120 L06 Reading about TARBALL
+ZCZC W03 30  L62 Backup Virtual Debian then Install on Linux
