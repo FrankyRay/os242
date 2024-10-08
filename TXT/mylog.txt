@@ -46,3 +46,11 @@ ZCZC W04 30  L06 Reading about SHA256SUM
 ZCZC W04 30  L06 Reading about md5sum
 ZCZC W04 180 L25 Trying learning C lang and Makefile
 ZCZC W04 100 L02 OS Class
+
+#==# W05 #==#
+ZCZC W05 100 L02 OS Class 
+ZCZC W05 120 L07 Do demos
+ZCZC W05 120 L15 Do Assignment #5
+ZCZC W05 90  L05 Do popquiz
+ZCZC W05 180 L06 Learning about memory
+ZCZC W05 100 L02 OS Class
