@@ -2,7 +2,6 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-#==# W00 #==#
 ZCZC W00 100 L02 OS Class
 ZCZC W00 50  L21 Trying to install Linux (Ubuntu) in VirtualBox
 ZCZC W00 120 L21 Continue to ricing Ubuntu in VirtualBox
@@ -10,7 +9,6 @@ ZCZC W00 100 L02 OS Class
 ZCZC W00 110 L05 Preparing (by setup SEB) for quiz 0; do quiz 0
 ZCZC W00 120 L60 Installing Arch Linux
 
-#==# W01 #==#
 ZCZC W01 100 L02 OS Class
 ZCZC W01 60  L11 Setup Debian for assignment 1
 ZCZC W01 30  L08 Helping other fixing username (assignmen 1)
@@ -25,7 +23,6 @@ ZCZC W01 110 L05 Studying for quiz 1; do the quiz 1
 ZCZC W01 120 L11 Continue assignment 1
 ZCZC W01 20  L41 Fixing mylog.txt, adding log for W00 and W01
 
-#==# W02 #==#
 ZCZC W02 100 L02 OS Class
 ZCZC W02 180 L00 Watching Cyber Security
 ZCZC W02 100 L02 OS Class
@@ -34,23 +31,28 @@ ZCZC W02 120 L12 Start to do assignment
 ZCZC W02 90  L06 Read more about GPG and SSH
 ZCZC W02 180 L12 Continue to do assignment #2
 
-#==# W03 #==#
 ZCZC W03 200 L32 Wathing OS related as replacement of OS Class
 ZCZC W03 100 L02 OS Class
 ZCZC W03 120 L06 Reading about TARBALL
 ZCZC W03 30  L62 Backup Virtual Debian then Install on Linux
 
-#==# W04 #==#
 ZCZC W04 100 L02 OS Class
 ZCZC W04 30  L06 Reading about SHA256SUM
 ZCZC W04 30  L06 Reading about md5sum
 ZCZC W04 180 L25 Trying learning C lang and Makefile
 ZCZC W04 100 L02 OS Class
 
-#==# W05 #==#
 ZCZC W05 100 L02 OS Class 
 ZCZC W05 120 L07 Do demos
 ZCZC W05 120 L15 Do Assignment #5
 ZCZC W05 90  L05 Do popquiz
 ZCZC W05 180 L06 Learning about memory
 ZCZC W05 100 L02 OS Class
+
+ZCZC W06 100 L02 OS Class
+ZCZC W06 150 L06 Reading C malloc
+ZCZC W06 150 L06 Reading C mmap
+ZCZC W06 120 Trying demos
+ZCZC W06 180 Do Assignment#06
+ZCZC W01 210 Do PopQuiz W06 
+ZCZC W06 100 L02 OS Class
