@@ -52,7 +52,14 @@ ZCZC W05 100 L02 OS Class
 ZCZC W06 100 L02 OS Class
 ZCZC W06 150 L06 Reading C malloc
 ZCZC W06 150 L06 Reading C mmap
-ZCZC W06 120 Trying demos
-ZCZC W06 180 Do Assignment#06
-ZCZC W01 210 Do PopQuiz W06 
+ZCZC W06 120 L07 Trying demos
+ZCZC W06 180 L16 Do Assignment#06
+ZCZC W01 210 L16 Do PopQuiz W06 
+ZCZC W06 100 L02 OS Class
+
+ZCZC W06 100 L02 OS Class
+ZCZC W06 120 L05 Learning for Quiz
+ZCZC W06 120 L07 Trying demos
+ZCZC W06 180 L17 Do Assignment#07
+ZCZC W06 210 L17 Do PopQuiz W07
 ZCZC W06 100 L02 OS Class
